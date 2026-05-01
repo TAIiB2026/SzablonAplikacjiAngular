@@ -37,7 +37,7 @@
       },
       "root": "",
       "sourceRoot": "src",
-      "prefix": "app",
+      "prefix": "taiib2",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:application",
@@ -101,5 +101,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
